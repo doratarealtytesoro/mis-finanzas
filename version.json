@@ -9,5 +9,14 @@
     "Recordatorios: registrar los gastos del día, actualizar la tasa y hacer respaldo",
     "Aviso cuando una categoría llega al 80 % o se pasa de su presupuesto",
     "Puedes activar, desactivar y elegir la hora de cada aviso en Ajustes → Notificaciones"
-  ]
+  ],
+  "web": {
+    "version": "1.2.1",
+    "minNativo": 3,
+    "zip": "https://github.com/doratarealtytesoro/mis-finanzas/releases/download/v1.2.1/web-1.2.1.zip",
+    "notas": [
+      "Pesos colombianos visibles al crear una cuenta, con los bancos de Colombia (incluidos Nequi y Daviplata) y la tasa COP/$ en la misma ventana",
+      "El gráfico \"Evolución del saldo\" ahora incluye los saldos iniciales de tus cuentas y marca tu patrimonio a la tasa de hoy"
+    ]
+  }
 }
