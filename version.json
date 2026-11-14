@@ -11,12 +11,14 @@
     "Tus egresos anteriores de Ahorro y Fondo de emergencia se convierten solos en aportes a esos fondos"
   ],
   "web": {
-    "version": "1.4.1",
-    "checksum": "f45d9ce16c9472f317aee4903b8bb454ced30ae641e791df470f2be4353114f5",
+    "version": "1.4.2",
+    "checksum": "e6fc2fbb908d91361662c89eaca4fe8b633291505cc13237449c537e35173a69",
     "minNativo": 5,
-    "zip": "https://github.com/doratarealtytesoro/mis-finanzas/releases/download/v1.4.1/web-1.4.1.zip",
+    "zip": "https://github.com/doratarealtytesoro/mis-finanzas/releases/download/v1.4.2/web-1.4.2.zip",
     "notas": [
-      "Con la app abierta, revisa cada 5 minutos si hay una versión nueva o un anuncio (y también al volver a la app)"
+      "Toca un movimiento para ver su ficha completa, con la foto del comprobante",
+      "En el teléfono, las tarjetas de movimientos se ordenan en filas y ya no tapan el texto",
+      "Los recibos con poco texto ahora se escanean con el papel blanco (antes quedaban grises)"
     ]
   }
 }
