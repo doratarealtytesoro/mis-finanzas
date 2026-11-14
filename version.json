@@ -1,22 +1,14 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "fecha": "2026-11-13",
   "apk": "https://github.com/doratarealtytesoro/mis-finanzas/releases/latest/download/MisFinanzas.apk",
   "notas": [
-    "Notificaciones: la app te avisa de nuevas versiones y de anuncios, aunque esté cerrada",
-    "Campana con la bandeja de notificaciones dentro de la app",
-    "Recordatorios: registrar los gastos del día, actualizar la tasa y hacer respaldo",
-    "Aviso cuando una categoría llega al 80 % o se pasa de su presupuesto",
-    "Puedes activar, desactivar y elegir la hora de cada aviso en Ajustes → Notificaciones"
-  ],
-  "web": {
-    "version": "1.2.1",
-    "minNativo": 3,
-    "zip": "https://github.com/doratarealtytesoro/mis-finanzas/releases/download/v1.2.1/web-1.2.1.zip",
-    "notas": [
-      "Pesos colombianos visibles al crear una cuenta, con los bancos de Colombia (incluidos Nequi y Daviplata) y la tasa COP/$ en la misma ventana",
-      "El gráfico \"Evolución del saldo\" ahora incluye los saldos iniciales de tus cuentas y marca tu patrimonio a la tasa de hoy"
-    ]
-  }
+    "Arreglo: las actualizaciones internas ya se descargan bien (desde aquí se aplican solas, sin instalar nada)",
+    "Aviso con la app cerrada también para las actualizaciones internas",
+    "La app revisa si hay actualizaciones cada vez que la abres",
+    "Pesos colombianos visibles al crear una cuenta, con Nequi, Daviplata y los bancos de Colombia",
+    "El gráfico de saldo incluye los saldos iniciales y marca tu patrimonio a la tasa de hoy",
+    "Al cambiar el tipo de una cuenta nueva ya no se queda el nombre del banco anterior"
+  ]
 }
