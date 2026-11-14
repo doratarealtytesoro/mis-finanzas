@@ -1,13 +1,13 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "fecha": "2026-11-13",
   "apk": "https://github.com/doratarealtytesoro/mis-finanzas/releases/latest/download/MisFinanzas.apk",
   "notas": [
-    "Nueva pestaña Cuentas: efectivo en $ y Bs, los 27 bancos de Venezuela y billeteras digitales (Binance, USDT, USDC…)",
-    "Pesos colombianos opcionales (Ajustes): cuentas en COP con su propia tasa COP/$ y bancos de Colombia",
-    "Transferencias entre cuentas, también con cambio de moneda (Bs a USDT, COP a $…)",
-    "Patrimonio total a la tasa de hoy y cuánto pierden tus bolívares o pesos guardados por la devaluación",
-    "Gráfico de patrimonio por cuenta y filtro por cuenta en los movimientos"
+    "Notificaciones: la app te avisa de nuevas versiones y de anuncios, aunque esté cerrada",
+    "Campana con la bandeja de notificaciones dentro de la app",
+    "Recordatorios: registrar los gastos del día, actualizar la tasa y hacer respaldo",
+    "Aviso cuando una categoría llega al 80 % o se pasa de su presupuesto",
+    "Puedes activar, desactivar y elegir la hora de cada aviso en Ajustes → Notificaciones"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "_instrucciones": "Para enviar un anuncio a todos: agrega un objeto a \"avisos\" con un id NUEVO (que no se repita nunca), fecha (AAAA-MM-DD), titulo y mensaje. Opcional: url (https://...) y hasta (AAAA-MM-DD, deja de mostrarse después de esa fecha). Guarda el archivo en GitHub y llegará en unas horas.",
+  "avisos": [
+    {
+      "id": "bienvenida-notificaciones",
+      "fecha": "2026-11-13",
+      "titulo": "¡Ya tenemos notificaciones! 🔔",
+      "mensaje": "Desde la versión 1.2, Mis Finanzas te avisa de nuevas versiones, anuncios de la clase y te recuerda registrar tus gastos. Elige qué avisos quieres en Ajustes → Notificaciones."
+    }
+  ]
+}
