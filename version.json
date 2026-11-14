@@ -1,14 +1,13 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "fecha": "2026-11-13",
+  "versionCode": 5,
+  "versionName": "1.4",
+  "fecha": "2026-11-14",
   "apk": "https://github.com/doratarealtytesoro/mis-finanzas/releases/latest/download/MisFinanzas.apk",
   "notas": [
-    "Arreglo: las actualizaciones internas ya se descargan bien (desde aquí se aplican solas, sin instalar nada)",
-    "Aviso con la app cerrada también para las actualizaciones internas",
-    "La app revisa si hay actualizaciones cada vez que la abres",
-    "Pesos colombianos visibles al crear una cuenta, con Nequi, Daviplata y los bancos de Colombia",
-    "El gráfico de saldo incluye los saldos iniciales y marca tu patrimonio a la tasa de hoy",
-    "Al cambiar el tipo de una cuenta nueva ya no se queda el nombre del banco anterior"
+    "Fondos: Ahorro y Fondo de emergencia ya no son gastos. El dinero se queda en su cuenta (efectivo, banco…) y solo se aparta",
+    "Cada ingreso y egreso va a una cuenta: \"¿A qué cuenta entra?\" / \"¿De qué cuenta sale?\", con su moneda y el saldo disponible",
+    "Fotos de comprobantes: toma una foto o elige una de la galería y se guarda liviana, con aspecto de escaneado",
+    "Icono más grande en la pantalla de inicio",
+    "Tus egresos anteriores de Ahorro y Fondo de emergencia se convierten solos en aportes a esos fondos"
   ]
 }
