@@ -11,14 +11,14 @@
     "Tus egresos anteriores de Ahorro y Fondo de emergencia se convierten solos en aportes a esos fondos"
   ],
   "web": {
-    "version": "1.4.2",
-    "checksum": "e6fc2fbb908d91361662c89eaca4fe8b633291505cc13237449c537e35173a69",
+    "version": "1.4.3",
+    "checksum": "2cd681eef9ad988ebcc40a77cf856d96b2a3e96b60b2cf2ebb1ab5b9b3b1dfe0",
     "minNativo": 5,
-    "zip": "https://github.com/doratarealtytesoro/mis-finanzas/releases/download/v1.4.2/web-1.4.2.zip",
+    "zip": "https://github.com/doratarealtytesoro/mis-finanzas/releases/download/v1.4.3/web-1.4.3.zip",
     "notas": [
-      "Toca un movimiento para ver su ficha completa, con la foto del comprobante",
-      "En el teléfono, las tarjetas de movimientos se ordenan en filas y ya no tapan el texto",
-      "Los recibos con poco texto ahora se escanean con el papel blanco (antes quedaban grises)"
+      "Las transferencias entre cuentas ahora aparecen en Movimientos (con filtro \"Transferencias\") y tienen su propia ficha",
+      "Toca una cuenta para ver su historial: todo lo que entró y salió, con el saldo después de cada movimiento",
+      "En el teléfono, las tarjetas de cuentas, fondos, transferencias, tasas y presupuesto se ordenan en filas y ya no tapan el texto"
     ]
   }
 }
