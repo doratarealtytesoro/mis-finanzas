@@ -1,7 +1,7 @@
 {
   "versionCode": 5,
   "versionName": "1.4",
-  "fecha": "2026-11-14",
+  "fecha": "2026-11-22",
   "apk": "https://github.com/doratarealtytesoro/mis-finanzas/releases/latest/download/MisFinanzas.apk",
   "notas": [
     "Fondos: Ahorro y Fondo de emergencia ya no son gastos. El dinero se queda en su cuenta (efectivo, banco…) y solo se aparta",
@@ -11,14 +11,15 @@
     "Tus egresos anteriores de Ahorro y Fondo de emergencia se convierten solos en aportes a esos fondos"
   ],
   "web": {
-    "version": "1.4.3",
-    "checksum": "2cd681eef9ad988ebcc40a77cf856d96b2a3e96b60b2cf2ebb1ab5b9b3b1dfe0",
+    "version": "1.4.4",
+    "checksum": "4ef4120be76d66b874189182c5d79986dd6eaf4f0a822a69cca6ba70fdc2c9ae",
     "minNativo": 5,
-    "zip": "https://github.com/doratarealtytesoro/mis-finanzas/releases/download/v1.4.3/web-1.4.3.zip",
+    "zip": "https://github.com/doratarealtytesoro/mis-finanzas/releases/download/v1.4.4/web-1.4.4.zip",
     "notas": [
-      "Las transferencias entre cuentas ahora aparecen en Movimientos (con filtro \"Transferencias\") y tienen su propia ficha",
-      "Toca una cuenta para ver su historial: todo lo que entró y salió, con el saldo después de cada movimiento",
-      "En el teléfono, las tarjetas de cuentas, fondos, transferencias, tasas y presupuesto se ordenan en filas y ya no tapan el texto"
+      "Presupuesto: toca una categoría (ej. Servicios) para armar tu lista de pagos del mes (Internet, Luz, Agua…) con casillas",
+      "Al registrar un egreso eliges qué cosa de la lista estás pagando y se marca sola; también puedes marcarla a mano",
+      "Nuevo: pendientes por cobrar y por pagar. No cuentan en tu patrimonio hasta que te pagan o pagas, y se pueden pagar en partes",
+      "Arriba hay dos tarjetas nuevas, Cobrar y Pagar, con lo que falta"
     ]
   }
 }
