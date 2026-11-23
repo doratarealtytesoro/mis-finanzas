@@ -11,5 +11,16 @@
     "Nueva tarjeta Dinero disponible (sin fondos ni lo apartado) y aviso si no alcanza para el presupuesto",
     "Diezmo automático de cada ingreso (se puede desactivar en Ajustes) y pendientes por pagar que se apartan del disponible",
     "Cuentas es la primera pestaña y las notificaciones borradas ya no vuelven a aparecer"
-  ]
+  ],
+  "web": {
+    "version": "1.5.1",
+    "checksum": "b9f60ee11d9cdd1306d52baa9ada1e5945c59c5a7fcaf044036c7f8b1e5e6ae0",
+    "minNativo": 6,
+    "zip": "https://github.com/doratarealtytesoro/mis-finanzas/releases/download/v1.5.1/web-1.5.1.zip",
+    "notas": [
+      "Cuentas: la tarjeta Patrimonio total ahora trae el detalle (efectivo, banco, digital y devaluación) y ya no se repite abajo",
+      "En Movimientos, el botón de Pendiente quedó al lado de Filtros",
+      "Tasas: nueva tasa del Euro (Bs por 1 €) con su historial y en el gráfico de tasas"
+    ]
+  }
 }
