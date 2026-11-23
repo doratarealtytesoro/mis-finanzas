@@ -1,25 +1,15 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "fecha": "2026-11-22",
+  "versionCode": 6,
+  "versionName": "1.5",
+  "fecha": "2026-11-23",
   "apk": "https://github.com/doratarealtytesoro/mis-finanzas/releases/latest/download/MisFinanzas.apk",
   "notas": [
-    "Fondos: Ahorro y Fondo de emergencia ya no son gastos. El dinero se queda en su cuenta (efectivo, banco…) y solo se aparta",
-    "Cada ingreso y egreso va a una cuenta: \"¿A qué cuenta entra?\" / \"¿De qué cuenta sale?\", con su moneda y el saldo disponible",
-    "Fotos de comprobantes: toma una foto o elige una de la galería y se guarda liviana, con aspecto de escaneado",
-    "Icono más grande en la pantalla de inicio",
-    "Tus egresos anteriores de Ahorro y Fondo de emergencia se convierten solos en aportes a esos fondos"
-  ],
-  "web": {
-    "version": "1.4.4",
-    "checksum": "4ef4120be76d66b874189182c5d79986dd6eaf4f0a822a69cca6ba70fdc2c9ae",
-    "minNativo": 5,
-    "zip": "https://github.com/doratarealtytesoro/mis-finanzas/releases/download/v1.4.4/web-1.4.4.zip",
-    "notas": [
-      "Presupuesto: toca una categoría (ej. Servicios) para armar tu lista de pagos del mes (Internet, Luz, Agua…) con casillas",
-      "Al registrar un egreso eliges qué cosa de la lista estás pagando y se marca sola; también puedes marcarla a mano",
-      "Nuevo: pendientes por cobrar y por pagar. No cuentan en tu patrimonio hasta que te pagan o pagas, y se pueden pagar en partes",
-      "Arriba hay dos tarjetas nuevas, Cobrar y Pagar, con lo que falta"
-    ]
-  }
+    "Avisos más confiables: la app revisa versiones y anuncios cada 15 minutos aunque esté cerrada",
+    "Botón Probar notificaciones en Ajustes, con el estado del permiso y de la hora exacta",
+    "Pendientes con día estimado: te avisa ese día a la hora que elijas",
+    "Aviso cuando se te está acabando el dinero disponible",
+    "Nueva tarjeta Dinero disponible (sin fondos ni lo apartado) y aviso si no alcanza para el presupuesto",
+    "Diezmo automático de cada ingreso (se puede desactivar en Ajustes) y pendientes por pagar que se apartan del disponible",
+    "Cuentas es la primera pestaña y las notificaciones borradas ya no vuelven a aparecer"
+  ]
 }
