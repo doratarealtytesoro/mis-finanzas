@@ -1,0 +1,41 @@
+{
+  "pais": "CO",
+  "nombre": "Colombia",
+  "version": "2026.11.24",
+  "moneda": "COP",
+  "bancos": [
+    "Bancolombia", "Davivienda", "Banco de Bogotá", "BBVA Colombia", "Banco de Occidente", "Banco Popular",
+    "Banco AV Villas", "Scotiabank Colpatria", "Banco Caja Social", "Itaú Colombia", "Banco Agrario de Colombia",
+    "Banco Falabella", "Banco GNB Sudameris", "Bancoomeva", "Banco Pichincha", "Banco Serfinanza", "Banco W",
+    "Banco Mundo Mujer", "Bancamía", "Banco Finandina", "Nu Colombia", "Lulo Bank", "Banco Unión", "Coltefinanciera",
+    "Cooperativa / Fondo de empleados"
+  ],
+  "billeteras": [
+    "Nequi", "Daviplata", "Movii", "Dale!", "RappiPay", "Ualá", "Nu Colombia", "Lulo Bank",
+    "Binance", "PayPal", "Wise", "Western Union", "Efecty"
+  ],
+  "categorias": [
+    ["Salario", "ingreso", "#16a34a", "bi-briefcase"],
+    ["Negocio/Emprendimiento", "ingreso", "#d4af37", "bi-shop"],
+    ["Giros/Remesas", "ingreso", "#0ea5e9", "bi-send"],
+    ["Prima y cesantías", "ingreso", "#14b8a6", "bi-gift"],
+    ["Otros ingresos", "ingreso", "#8b5cf6", "bi-plus-circle"],
+    ["Diezmo y ofrendas", "egreso", "#d4af37", "bi-heart"],
+    ["Mercado", "egreso", "#ef4444", "bi-basket"],
+    ["Arriendo", "egreso", "#a16207", "bi-house"],
+    ["Servicios públicos", "egreso", "#8b5cf6", "bi-lightning-charge"],
+    ["Celular e internet", "egreso", "#0ea5e9", "bi-wifi"],
+    ["Transporte", "egreso", "#f59e0b", "bi-bus-front"],
+    ["Salud y EPS", "egreso", "#ec4899", "bi-heart-pulse"],
+    ["Educación", "egreso", "#6366f1", "bi-mortarboard"],
+    ["Pago de deudas", "egreso", "#dc2626", "bi-credit-card"],
+    ["Ropa", "egreso", "#14b8a6", "bi-bag"],
+    ["Entretenimiento", "egreso", "#f97316", "bi-controller"]
+  ],
+  "tasa": {
+    "descripcion": "TRM (Tasa Representativa del Mercado) publicada por la Superintendencia Financiera en datos.gov.co",
+    "url": "https://www.datos.gov.co/resource/32sa-8pi3.json?$order=vigenciadesde%20DESC&$limit=1",
+    "campo": "valor",
+    "respaldo": "https://open.er-api.com/v6/latest/USD"
+  }
+}
