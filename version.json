@@ -1,7 +1,7 @@
 {
   "versionCode": 6,
   "versionName": "1.5",
-  "fecha": "2026-11-23",
+  "fecha": "2026-11-24",
   "apk": "https://github.com/doratarealtytesoro/mis-finanzas/releases/latest/download/MisFinanzas.apk",
   "notas": [
     "Avisos más confiables: la app revisa versiones y anuncios cada 15 minutos aunque esté cerrada",
@@ -13,14 +13,14 @@
     "Cuentas es la primera pestaña y las notificaciones borradas ya no vuelven a aparecer"
   ],
   "web": {
-    "version": "1.5.1",
-    "checksum": "b9f60ee11d9cdd1306d52baa9ada1e5945c59c5a7fcaf044036c7f8b1e5e6ae0",
+    "version": "1.5.2",
+    "checksum": "5eebd5ea298dee585d74585419bf0716277d14e1aec96c9d392fcf9c10d63065",
     "minNativo": 6,
-    "zip": "https://github.com/doratarealtytesoro/mis-finanzas/releases/download/v1.5.1/web-1.5.1.zip",
+    "zip": "https://github.com/doratarealtytesoro/mis-finanzas/releases/download/v1.5.2/web-1.5.2.zip",
     "notas": [
-      "Cuentas: la tarjeta Patrimonio total ahora trae el detalle (efectivo, banco, digital y devaluación) y ya no se repite abajo",
-      "En Movimientos, el botón de Pendiente quedó al lado de Filtros",
-      "Tasas: nueva tasa del Euro (Bs por 1 €) con su historial y en el gráfico de tasas"
+      "Nuevo Modo país (Ajustes): elige Colombia y todo se maneja en pesos, con sus bancos, billeteras, categorías y la TRM del día",
+      "Botón de ayuda (?) arriba: explica cómo funciona la pantalla que tienes abierta",
+      "El encabezado ahora muestra el logo de la app"
     ]
   }
 }
